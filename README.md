@@ -1,3 +1,3 @@
 ## Count Down
 
-![App](https://i.imgur.com/chIR2gR.png)
+![App](https://i.imgur.com/BdIkp1v.png)
